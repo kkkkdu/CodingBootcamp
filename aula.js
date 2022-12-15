@@ -10,4 +10,4 @@ let PreçoPorLitro = GastoDistancia*PreçoCombustivel;
 console.log("Foi gasto: " + GastoDistancia  + " Litros neste percurso");
 console.log("O combustivel está R$ " + PreçoCombustivel + " Por km");
 console.log("No total foram gastos R$" + PreçoPorLitro.toFixed(2) + " para concluir toda a viagem");
-console.log("Agora vamos testar o commit");''
+console.log("Agora vamos testar o commit");
